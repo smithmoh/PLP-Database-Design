@@ -1,6 +1,6 @@
 <h2>📚 Bookstore Database Schema</h2>
  
- This repository has a base task of designing a database schema; this task was assigned to : <ul style="list-style:none;"> <li>Grace Ngari</li> <li>Moses Simiyu</li> <li>Jesse Ager</li> </ul>
+ This repository has a base task of designing a database schema; this task was assigned to : <ul style="list-style:none;"> <li>Grace Ngari</li> <li>Moses Wang'unda</li> <li>Jesse Ager</li> </ul>
 
 <p>The schema is about designing and implementing a relational database system for managing the operations of a bookstore. It includes tables for books, authors, customers, orders, shipping, and more, supporting data integrity, relationships, and access control.</p>
 
